@@ -65,7 +65,7 @@ The system is organized into 5 distinct layers:
 
 ## Class Diagram
 
-![Payment System Architecture] (image.png)
+![Payment System Architecture](image.png)
 
 ### Relationship Legend
 
