@@ -1,15 +1,11 @@
 # Payment System - Low Level Design Thinking Process
 
-## 🧠 The Mental Algorithm for LLD (Memorize This)
-
-Whenever you face ANY LLD problem, follow this 9-step process:
-
 ## 🪜 Step 1: Extract Nouns → Entities
 
 **From the problem statement:**
 - "Payment Gateway" (mentioned in requirements)
 
-**You think:** "Let me identify the core entities first."
+**Think:** "Let me identify the core entities first."
 
 **Extract:**
 - Payment
@@ -70,8 +66,6 @@ public:
     virtual bool charge(Payment&) = 0;
 };
 ```
-
-**👉 You didn't "invent" this — You derived it from variability**
 
 ## 🪜 Step 5: Add Concrete Implementations
 
