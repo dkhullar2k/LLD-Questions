@@ -171,7 +171,7 @@ Multiple users selecting the same seat at the exact same time creates a race con
 
 ---
 
-## ⚡ Step 8: Future Improvements (SDE2+ Signal)
+## ⚡ Step 8: Future Improvements
 
 ### 1. Seat Hold Feature
 - Reserve seats for 5-10 minutes without charging
