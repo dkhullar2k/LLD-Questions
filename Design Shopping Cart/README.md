@@ -1,4 +1,4 @@
-# Shopping Cart System Design
+# Shopping Cart Design
 
 ## Class Diagram
 ![Class Diagram](image.png)
@@ -34,8 +34,6 @@ Main Entities:
 - DiscountStrategy (for discounts/coupons)
 
 ## ✅ 3. Define Responsibilities (CRUCIAL for SDE2)
-
-This is where most candidates fail — focus on behavior, not just classes.
 
 | Entity | Responsibility |
 |--------|---------------|
